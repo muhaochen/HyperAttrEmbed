@@ -8,4 +8,4 @@ Some implementations of Embedding Edge-attributed Relational Hierarchies in SIGI
 		year = {2019},
 	}
 
-This repository currently includes two packages, HyperTransE with or without edge attributes.
+This repository currently includes two packages, HyperTransE with or without edge attributes. Requires Python 3.6 and Tensorflow >= 1.8.
